@@ -1,5 +1,5 @@
 # Entendendo-os-padroes-de-projeto
-desafio da DIO, Em evolução
+desafio da DIO
 
 
 desafio de projeto que explora os padroes que um projeto tem, e usa o springboot para estar facilitando o uso e aplicação de codigos e implementaçoes na api java.
